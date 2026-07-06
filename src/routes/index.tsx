@@ -292,7 +292,7 @@ function Hero() {
             </div>
             <span className="h-4 w-px bg-border" />
             <div className="flex items-center gap-2">
-              <Clock className="size-4 text-primary" /> Open 7 Days · Men 10–10 · Women 10–8
+              <Clock className="size-4 text-primary" /> Open 7 Days · Men 10 AM - 10 PM · Women 10 AM - 8 PM
             </div>
           </div>
         </div>
