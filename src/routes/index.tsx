@@ -8,6 +8,9 @@ import menHaircutImg from "@/assets/gallery-men-haircut.jpg";
 import beardGroomingImg from "@/assets/gallery-beard-grooming.jpg";
 import womenStylingImg from "@/assets/gallery-women-styling.jpg";
 import menColorImg from "@/assets/gallery-men-color.jpg";
+import salonInteriorImg from "@/assets/salon-interior-chairs.jpg";
+import salonLogoWallImg from "@/assets/salon-logo-wall.jpg";
+import salonStorefrontImg from "@/assets/salon-storefront.jpg";
 import { Phone, MapPin, Clock, MessageCircle, Scissors, Heart, Star, Instagram, ChevronRight, Calendar, Award, Users } from "lucide-react";
 import { BookingForm } from "@/components/booking-form";
 
@@ -159,9 +162,9 @@ const galleryImages = [
   { src: bridalImg, alt: "Bridal makeup service in East Delhi by Gravity Unisex Salon" },
   { src: menColorImg, alt: "Men's hair colour and dye service at Gravity Unisex Salon, Dilshad Garden" },
   { src: beardGroomingImg, alt: "Professional beard trim and grooming for men at Gravity Unisex Salon" },
-  { src: heroImg, alt: "Gravity Unisex Salon & Academy storefront — illuminated signage in Dilshad Garden, Delhi" },
-  { src: haircutImg, alt: "Inside Gravity Unisex Salon — premium styling stations and chairs in Dilshad Garden" },
-  { src: colorImg, alt: "Gravity Unisex Salon & Academy brand wall with chandelier and product shelves" },
+  { src: salonStorefrontImg, alt: "Gravity Unisex Salon & Academy storefront — illuminated signage in Dilshad Garden, Delhi" },
+  { src: salonInteriorImg, alt: "Inside Gravity Unisex Salon — premium styling stations and chairs in Dilshad Garden" },
+  { src: salonLogoWallImg, alt: "Gravity Unisex Salon & Academy brand wall with chandelier and product shelves" },
 ];
 
 const faqs = [
